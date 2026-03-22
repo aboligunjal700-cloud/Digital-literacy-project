@@ -1,6 +1,6 @@
 # Digital-literacy-project
 
-Name: Aboli Gunjal
+Name: Aboli Gunjal\
 Reg No: 25BCE10246
 
 # Project Overview
